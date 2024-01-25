@@ -70,10 +70,10 @@ pip install PyQt5 matplotlib numpy sympy pyqtgraph pandas reportlab
 ## Usage
 Run the application:
 ```bash
-python main_window.py
+python sampling_studio.py
 ```
 
-## Contribution
+## Contributing
 Contributions to Signal Viewer are welcome! If you encounter any issues or have suggestions for improvements, please create a new issue or submit a pull request.
 
 When contributing, please ensure that you follow the existing coding style and include clear commit messages to maintain a well-documented project history.
