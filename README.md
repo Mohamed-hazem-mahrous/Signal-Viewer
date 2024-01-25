@@ -70,7 +70,7 @@ pip install PyQt5 matplotlib numpy sympy pyqtgraph pandas reportlab
 ## Usage
 Run the application:
 ```bash
-python sampling_studio.py
+python main_window.py
 ```
 
 ## Contributing
