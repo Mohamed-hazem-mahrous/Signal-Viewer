@@ -44,8 +44,7 @@ The following team members have contributed to this project:
 - **Data Analysis:** Perform data analysis on loaded signals, including mean, median, standard deviation, maximum, and minimum values.
 
 ## Video Demonstration
-
-![Watch the Demo Video]([Demo/App_Demo.mp4](https://github.com/Mohamed-hazem-mahrous/Signal-Viewer/assets/94749599/8de0ad0d-015e-40f2-9e00-58949a5e0f84))
+([Demo/App_Demo.mp4](https://github.com/Mohamed-hazem-mahrous/Signal-Viewer/assets/94749599/8de0ad0d-015e-40f2-9e00-58949a5e0f84))](https://github.com/Mohamed-hazem-mahrous/Signal-Viewer/assets/94749599/8de0ad0d-015e-40f2-9e00-58949a5e0f84)
 
 ## Requirements
 
